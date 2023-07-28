@@ -3,3 +3,4 @@ requests>=2.0
 six
 pyglet>=1.2.0
 scipy==0.17.1
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
